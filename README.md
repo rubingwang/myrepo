@@ -13,3 +13,6 @@ this is a word from R
 
 
 1010101001
+\
+
+111111
